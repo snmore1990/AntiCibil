@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6{
 
 nav#menubar {
 	background-color: #fff;
-	border: none;
+	border: 1px solid #ccc;
 	border-radius: 0;
 	margin-bottom: 0px;
 }
@@ -1185,7 +1185,7 @@ input, select, textarea {border-radius:0 !important; background: #fafafa !import
 #my-account-customer-feddback-poll  h3{ line-height:44px; margin-top:0; margin-bottom:0; border-bottom:0; font-size:25px; font-weight:normal;}
 #my-account-customer-feddback-poll  p{ font-size:16px; color:#333333;}
 
-#my-account-customer-feddback-poll  label{color:#a09f9f; font-size:13px; font-weight:normal;}
+#my-account-customer-feddback-poll  label{font-size:13px; font-weight:normal;margin-top:10px;}
 #my-account-customer-feddback-poll  .nopaddingRight{padding-right:0;}
 #my-account-customer-feddback-poll  .nopaddingLeft{padding-left:0;}
 
