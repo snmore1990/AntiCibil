@@ -1,0 +1,1000 @@
+
+@media screen and (max-width:991px) {
+.home-icon-row .col-xs-12,.home-icon-row .col-sm-12{
+margin-bottom:5px;
+margin-top:5px;
+}
+ .management-row >div:first-child,.management-row .person-name,.management-row .person-designation{text-align:center;}
+
+#registerModal .modalFormBtn,#registerModal .applyBtn{
+	font-size:9px;
+}
+/**** below css are created by shantibhushan****/
+.profileSection {
+    border-left:none;
+    border-top: 1px solid #dedede;
+}
+
+.rewards .lead-text, .redeem .lead-text, .review .lead-text {
+    padding: 10px 0 0;
+	text-align:center;
+}
+#join-now-process #step4 .margin-top-20 {
+    margin-top: 20px;
+}
+#why-enroll .content-container {
+    min-height: 180px;
+	width: 265px;
+    margin: 0 auto;
+	margin-bottom: 20px;
+}
+#my-account-edit-profile-process .form-group {
+    margin-bottom: 5px;
+    min-height: 32px !important;
+}
+#my-account-edit-profile-process .form-group>label {
+    display: block;
+}
+
+.aboutGlobeStepSect .col-md-3:nth-child(2) .aboutGlobeStepBlock:after{display:none;background-color:#fff;}
+
+nav#menubar .navbar-nav>li>a{
+	padding:11px 15px;	
+}
+.labelBreak{Clear:none;display: none;}
+#localStreet2,#localStreet3,#localStreet4, #physicalStreet2,#physicalStreet3,#physicalStreet4{margin-top:15px;}
+
+#Signin .modal-dialog{max-width:60%; width:100%; min-width:260px;margin: 5% auto;}
+.popUPBannerImg{display:none;}
+.popUpHeader {
+    margin: 0px 0px 0px 0px;
+}
+.cardFeatureSect li span:first-child{min-height:50px;width:70px;}
+.cardFeatureSect li span{display:inline-block;}
+.cardFeatureSect li span.col-md-9 {
+    padding: 3px 0px;
+    width: 70%;
+}
+.cardFeatureSect li {
+    margin: 5px 10px;
+}
+.cardFeatureSect h3{text-align:center;}
+.dividerBorder{border-right:none; margin-bottom:20px; border-bottom:1px solid #e5e1e1;}
+.shopBlock {
+    border-right: 1px solid #e5e1e1;
+    text-align: center;
+    margin: 5px 0;
+    min-height: 90px;
+	padding:21px 10px;
+	box-sizing:border-box;
+}
+.shopBlock .imgHolder {
+    min-width: 62px;
+    display: block;
+    float: none;
+}
+.shopBlock .txtHolder {
+    float: none;
+    max-width: 100%;
+    text-align: center;
+}
+.modalFormBtn br, .applyBtn br{ display:block;}
+
+#contactUs .box-block{
+	max-width: 650px;
+	margin: 0 auto;
+}
+.box-block .contact-details a{
+	font-size:12px;
+}
+.feedback-poll-queList li{
+	min-width:45%;
+	margin-bottom:5px;
+}
+}
+
+@media (min-width: 1280px) {
+	#join-now-process .nav-tabs {
+		margin-left: 7.6%;
+	}
+	
+.popUPBannerImg + div{
+padding-left:0;
+}
+}
+
+@media (min-width: 980px) and (max-width: 1024px) {
+.popUPBannerImg + div{
+padding-left:0;
+}
+#why-enroll .content-container div.content-info {
+    height: 80px;
+}
+#join-now-process .nav-tabs {margin-left:17% !important;}
+	.payment-gateway{width:33.33%;}
+
+	/**** below css are created by shantibhushan****/
+.respBtn-block{padding-right:0;padding-left:0;}
+.download-pdf-sect, .respBtn-block{width:100%;}
+#about-card	.lead{
+	font-size:22px;
+}
+.rewards img, .redeem img, .review img {
+	margin-left:-22px;
+}
+
+#about-card-banner .lead.text-white{
+font-size:22px;
+}
+.member-Acc-details .profile-score-heading{
+    font-size: 15px;
+}
+
+.member-Acc-details .member-cate-heading {
+    font-size: 15px;
+}
+.member-Acc-details .profile-heading-box{
+	padding: 0 5px;
+}
+.globalCardInfoBlocks{
+	min-height:250px;
+}
+.shopBlock .imgHolder {
+    min-width: 100%;
+    float: none;
+}
+.shopBlock .txtHolder {
+    float: none;
+    max-width: 100%;
+    text-align: center;
+    display: block;
+}
+.socialConnect a {
+    height: 40px;
+    width: 40px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+.logo{background-size:70%;background-position: 8px 10px;}
+.payment-gateway>img{
+	width:90px;
+}
+#register {
+    width: 350px;
+    margin-top: 0px;
+}
+#homepage-top-carousel .item {
+    height: 300px;
+}
+
+.offer-banner-2-leftText{top:0;}
+
+.banner-first-adjustment{
+    margin-top: 10px;
+	}
+	
+	#register .btn {
+    font-size: 16px;
+}
+#register div:last-child {
+    padding: 7px;
+}
+#register button {
+    padding: 7px !important;
+}
+
+
+
+    .banner-left-text{    padding: 30px 35px;}
+	#join-now-process .nav-tabs {
+		margin-left: 6% !important;
+	}
+	.payment-gateway{width:33.33%;}
+
+.clear-left {
+	clear: none;
+}
+.input-group-lg > .form-control, .input-group-lg > .input-group-addon, .input-group-lg > .input-group-btn > .btn,blockquote{
+	font-size:14px;
+}
+.nbs-flexisel-nav-left {
+    background: url(../images/slider-nav.png) no-repeat -24px 0;
+}
+.nbs-flexisel-inner {
+    margin-left: -6px;
+}
+#join-now-process .borderRHS{border:none;}
+#join-now-process .form-group {
+    padding: 0;
+	margin: 0;
+}
+#join-now-process .form-group label {
+	/*margin-top: 20px;*/
+	margin-top:3px;
+}
+.footerCopyright {
+	text-align: center;
+	
+}
+.footerCopyright .brachesLink {
+	text-align: center;
+	/*margin-top: 20px;*/
+}
+.footerCopyright .logo {
+	display: inline-block;
+	margin: 0 auto;
+}
+.footerCopyright ul {
+	margin-bottom:20px;
+}
+.globalCardInfoBlocks .steps{
+	left:45%;
+}
+.register-Modal .modal-dialog{width:90%;}
+
+.register-Modal .modal-dialog button.btn.btn-lg.btn-primary.btn-block{font-size:10px !important;}
+
+.col-md-12.points-status div {
+    width: 33%;
+    margin-bottom: 15px;
+}
+.select-location{
+	float: right;
+	margin-top: 0px !important;
+	clear: left;
+	margin-bottom: 20px;
+}
+
+.bannerMain-text {
+   margin-top: 3%;
+}
+.feedback-poll-queList li{
+	min-width:45%;
+}
+
+} /* media ends*/
+
+@media  (min-width: 560px) and (max-width: 767px) {
+	#join-now-process .nav-tabs {
+		margin-left: 5% !important;
+	}
+	.globalCardInfoBlocks .steps{
+	left:45%;
+	}
+	.bannerTxtDevice{display:none !important;}
+}
+@media  (min-width: 481px) and (max-width: 560px) {
+	#join-now-process .nav-tabs {
+		margin-left: 4% !important;
+	}
+	.balance-points div{width:auto; float:none; margin-bottom:5px; padding-bottom:5px;}
+.border-divider{border-bottom:1px solid #fff; border-right:none;}
+.bannerTxtDevice{display:none !important;}
+.TxtHide-smallDevice{display:none;}
+	.shopBlock .imgHolder {
+    min-width: 100%;
+    display: block;
+}	
+.shopBlock .txtHolder {
+    float: none;
+    max-width: 100px;
+    text-align: center;
+    padding-top: 7px;
+}
+.modalFormBtn br, .applyBtn br {
+    display: block;
+}
+}
+@media  (min-width: 360px) and (max-width: 480px) {
+	#join-now-process .nav-tabs {
+		margin-left: 2% !important;
+	}
+	/*.member-Acc-details .circleWrap {
+    left: 26%;
+	}*/
+	.TxtHide-smallDevice{display:none;}
+}
+@media (max-width: 767px) {
+.announcement{font-size:10px;}
+.after-login ul{position:relative;}
+#registerModal .modalFormBtn, #registerModal .applyBtn{
+font-size:7px;
+}
+.icon-notice .text-black img {
+    height: 80px;
+    width: 125px;
+}
+.icon-notice div ul li {
+    display: inline-block;
+    width: 50%;
+}
+.icon-notice div{width:290px;}
+#header-top-bar ul li:nth-child(1){
+	float:left;
+}
+#header-top-bar ul li:nth-child(2){
+	float:right;
+}
+#header-top-bar>ul>li:nth-child(1):after{
+	border:none;
+}
+#header-top-bar ul li a {
+    padding: 10px 3px;
+}
+#header-top-bar .dropdown-menu li{
+	text-align:left;
+	width:100%;
+}
+#header-top #top-right-info.nav-pills>li>a{
+text-align:left;
+color:#000;
+padding:10px 25px;
+width:100%;
+}
+#why-enroll .row>div>div{
+	margin-bottom: 20px;
+}
+#abt-gcard-banner .bannerMain-text{margin-top:2%;} 
+
+.banner-content-right{
+right:0;
+}
+
+.offer-banner-2-leftText{
+	top:5%;
+	font-size:28px;
+}
+.offer-banner-2-leftText .subtext{
+font-size:18px;
+}
+
+.offer-banner-1-leftText {
+    padding: 10px 30px;
+    font-size: 18px;
+}
+#homepage-top-carousel .item {
+    height: 265px;
+}
+
+	#register .btn {
+    font-size: 16px;
+}
+#register div:last-child {
+    padding: 7px;
+}
+#register button {
+    padding: 7px !important;
+}
+#register>div:first-child {
+    margin-top: 0px;
+}
+#register>div:nth-child(2) {
+    margin-bottom: 6px;
+}
+.banner-left-text {
+    margin-top: 3%;
+    padding: 20px 25px;
+}
+.shopBlock:nth-child(3){
+	border-right:none !important;
+}
+#header-top-bar ul{
+    width: 100%;
+	text-align: center !important;
+	position: absolute;
+    right: 0;
+    left: 0;
+	top:0px;
+    z-index: 999;
+}
+#menubar1 #top-right-info li:nth-child(1):after{
+display:none;
+}
+#menubar1 #top-right-info{
+margin-right:auto;
+}
+/*.redemption-section h3.btm-border{
+	margin-bottom:70px;
+}*/
+.redemption-section h3.btm-border .pull-right.text-right, #all-offer-body  section  ul.nav-tabs .pull-right.text-right{
+	float:left !important;
+	text-align:center !important;
+}
+.redemption-section h3.btm-border .row{
+	margin-top: 8px;
+	margin-left: 0px;
+    margin-right: 0px;
+}
+.redemption-section h3.btm-border select.location, #all-offer-body  section  ul.nav-tabs  select.location{
+	width:100% !important;
+	float:leftt;
+	
+}
+
+#about-card-banner .lead.text-white{
+font-size:22px;
+}
+
+#global-card-tabs {
+	width:294px;
+}
+#global-card-tabs .nav-tabs > li a{
+	padding:11px 22px;
+}
+#global-card-tabs .nav-tabs > li.active a span.hidden-xs{
+	display:block !important;
+}
+#global-card-tabs .nav-tabs > li.active > a span {
+    float: left;
+    margin-right: 10px;
+}
+.eventImgHolder {
+	text-align: center;
+}
+#menubar {
+	padding: 10px;
+}
+header #header-top {
+	margin: 0 auto;
+	padding-top: 0px;
+	position: relative;
+	right: 0;
+	top: -16px;
+	width: 100%;
+	margin-top:-16px;
+}
+.logo {
+	height: 40px;
+	width: 200px;
+}
+.logo {
+	height: 38px;
+	left: 0;
+	margin: 0 auto;
+	position: absolute;
+	right: 0;
+	width: 185px;
+	z-index: 99;
+	top:48px;
+}
+#menubar1 {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	border: medium none;
+	margin-top: 40px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 100%;
+	z-index: 9;
+	padding-right:0px;
+}
+#menubar1 button {
+	color: #333;
+}
+#example-navbar-collapse1 {
+	background: #fff;
+	margin-top: 60px;
+}
+#top-right-info > li a{
+	padding: 10px;
+	}
+#top-right-info > li {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+#header-top .nav-pills > li.customer-care > a {
+	border-left: none;
+	border-right: none;
+}
+#top-right-info li ul li {
+	width: 100%;
+}
+#example-navbar-collapse ul {
+	margin: 0;
+	height:auto !important;
+}
+/**** below css are created by shantibhushan****/
+.my-acc-profle-head{width:50%;float:left;}
+.respBtn-block{padding:0;}
+.nbs-flexisel-nav-left {
+    background: url(../images/slider-nav.png) no-repeat -24px 0;
+}
+.nbs-flexisel-inner {
+    margin-left: -6px;
+}
+.table-rating{display:none}
+.star-rating-wrapper{display:block;}
+#my-account-edit-profile-process .mobile-tab-headings{display:block;}
+#my-account-edit-profile-process #selects{display:none;}
+
+#join-now-process .borderRHS{border:none;}
+
+#join-now-process .form-group {
+    padding: 0;
+	margin: 0;
+}
+#join-now-process .form-group label {
+	/*margin-top: 20px;*/
+	margin-top:3px;
+    padding-top: 10px;
+}
+#join {
+    padding-top: 10px;
+}
+.footerCopyright {
+	text-align: center;
+}
+.footerCopyright .brachesLink {
+	text-align: center;
+	/*margin-top: 20px;*/
+}
+.footerCopyright .logo {
+	display: inline-block;
+	margin: 0 auto;
+}
+.footerCopyright ul {
+	margin-bottom:20px;
+}
+#join-now-process #declaration{
+	float: left;
+	width: 20px;
+}
+#join-now-process #declaration  ~ label{
+    float: left;
+    margin-top: 0px;
+    width: 90%;
+}
+.labelTxt {
+    width: auto;
+    float: none;
+}
+.aboutGlobeStepSect .col-md-3 .aboutGlobeStepBlock:after{display:none;background-color:#fff;}
+.aboutGlobeStepSect .col-md-3 .aboutGlobeStepBlock:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 15px;
+    right: 5px;
+    left: 0%;
+    z-index: 0;
+}
+.navbar-toggle{z-index:10;}
+
+#Signin .modal-dialog{max-width:70%;}
+.cardFeatureSect ul {
+    margin: 20px 5px 10px 0px;
+}
+.cardFeatureSect li {
+    margin: 5px 0px;
+    min-height: 40px;
+}
+.cardFeatureSect li span:first-child{min-height:50px;width:75px; padding:5px; display:inline-block;}
+.cardFeatureSect li span.col-md-9 {
+    padding: 3px 0px;
+    width: 61%;
+}
+.register-Modal .modal-dialog button.btn.btn-lg.btn-primary.btn-block{font-size:15px !important;}
+.cardFeatureSect {
+    padding: 15px;
+    margin-right: 0px;
+}
+/*.cardFeatureSect{display:none;}*/
+.dividerBorder{border-right:none; margin-bottom:20px; border-bottom:1px solid #e5e1e1;}
+.emailSuscribePart{margin-bottom:15px;}
+
+.payment-gateway{width:33.33%;}
+.shopBlock .txtHolder, .shopBlock .imgHolder {
+    float:none;
+	display:block;
+	text-align:center;
+	max-width:100%;
+}
+.subscribeImg{display:none;}
+.modal-card-feature{floart:right;}
+.modalForm{float:left;}
+.footerBlock h3 span{display:inline-block; float:right;}
+.footerBlock h3{cursor:pointer;padding:10px;background:#f7f7f7; margin:5px 0 0;}
+.footerBlock:nth-child(3) h3{cursor:none;padding:10px;background:none;}
+.footerBlock:nth-child(3) ul{padding:0 10px 0;}
+.footerBlock:nth-child(4) p{padding:0 10px 0;}
+footer .links {padding: 0px 20px;}
+.showSection{display:block !important;}
+.hideSection{display:none !important;}
+.footerBlock img.margin-top-37{margin-top:0px;}
+.register {border-left: none;}
+.side-banner img + p{display:none !important;}
+.points-status div:nth-child(2) {
+    border-right: none;
+    border-left:none;
+}
+.points-status div {
+    border-bottom:1px solid #cdcccc;
+	padding: 5px 5px;
+}
+.balance-point{
+	margin-bottom:10px;	
+}
+.paddingRNone {
+    padding-right: 0;
+    padding-left: 0;
+}
+.profileSection-Wrap {
+    border-left: none;
+}
+.setPassword-MobileVar{
+	margin-bottom:10px;	
+}
+.select-location{
+	float: right;
+	margin-top: 0px !important;
+	clear: left;
+	margin-bottom: 20px;
+}
+.brand-logo-right{
+	text-align:center;
+	min-height:auto;
+	border-bottom:1px solid #e5e1e1;
+	border-right:none;
+}
+.brand-logo-left{
+	text-align:center;
+	border-left:none;
+	border-top:1px solid #e5e1e1;	
+}
+.brand-logo-right a, .brand-logo-left a, .brand-logo-center a{
+	margin:10px 5px;
+	display:inline-block;	
+}
+#main-carousel .item .container .banner-content-wrapper{	
+	max-width:94%; margin:0 auto; position:absolute;
+}
+
+#main-carousel .bannerMain-text{
+	margin-top: 12%;
+}
+#contactUs .box-block{
+	/*max-width: 360px !important;*/
+	margin: 0 auto;
+}
+#contactUs .box-block .contact-details{
+	border-top: 1px solid #e7e3e4;
+	border-left:none;
+	margin-top: 50px;
+}
+
+/*#contactUs .box-block ~ div p{
+	text-align:center;
+}*/
+.contactForm-Sect {
+    border-right:none;
+	min-height: auto;
+}
+#contactUs .contact-location:before, #contactUs .contact-option:before, #contactUs .contact-email:before{
+	display:none;	
+}
+#contactUs .contact-location, #contactUs .contact-option, #contactUs .contact-email{
+	margin:15px 0px 25px 0px;
+}
+
+  /* eventlist page css start here - 767*/
+.eventslist-index-index .column.main {
+  width: 100%;
+}
+.eventslist-index-index .column.main .event-article-main .event-row {
+  padding: 25px 0;
+}
+.eventslist-index-index .column.main .event-article-main .event-row .event-details {
+  border-right:none;
+  margin-bottom:10px;
+}
+.eventslist-index-index .column.main .event-article-main .event-row .event-details .event-store-desc h2 {
+  margin-bottom: 10px;
+  margin-top:15px;
+}
+.eventslist-index-index .column.main .event-article-main .event-row .event-details .event-store-desc h2 a {
+  color: #666666;
+  text-decoration: none;
+}
+.eventslist-index-index .column.main .event-article-main .event-row .event-details .event-store-desc p {
+  display: none;
+}
+.eventslist-index-index .column.main .event-article-main .event-row .event-store-details {
+  padding: 0px 15px 0px 15px;
+  margin-bottom: 0;
+}
+.eventslist-index-index .column.main .event-search-main .event-country{
+	margin-bottom:15px;
+}
+/* eventlist page css end here 767 */
+
+/* event details page css start here 767 */
+.eventslist-index-view .column.main {
+ 	width: 100%;
+}
+.eventslist-index-view .column.main .event-article-main .event-row {
+    padding: 5px 0 5px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-anchor-image {
+  	margin-bottom: 30px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-details-view{
+	border-right:none;	
+}
+
+.eventslist-index-view .column.main .event-article-main-view .event-details-view h2 {
+  margin-bottom: 15px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-details-view h2 a {
+  color: #666666;
+  text-decoration: none;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-details-view p {
+  font-size: 13px;
+  margin: 15px 0 20px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-details-view .social-sharing-event {
+  margin: 10px 0 15px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-details-view .social-sharing-event .share-On a {
+  margin-right: 5px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-store-details {
+  padding: 15px 15px 0px 15px;
+  margin-bottom: 0;
+  border-top: 1px solid #e5e1e1;
+  border-left:none;
+  margin-top:15px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-store-details .event-date {
+  padding: 5px 0 20px;
+}
+.eventslist-index-view .column.main .event-article-main-view .event-store-details .event-desc-map #map {
+  width: 100%;
+  height: 280px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 15px;
+}
+/* event details page css end here 767*/
+.brand-details-logo-img {
+    text-align: center;
+}
+.brand-details-logo-img a {
+    text-align: center;
+}
+.brand-details-logo-img a img{
+    display:inline-block;
+}
+.feedback-poll-queList li{
+	min-width:45%;
+}
+}
+@media (max-width: 1024px) {
+#main-carousel .item .container .banner-content-wrapper{	
+	max-width:95%;
+}
+#header-top-bar ul{margin-right:4.5%;}
+}
+@media (max-width: 640px) {
+#main-carousel .item .container .banner-content-wrapper{
+	max-width:93%;
+}
+.feedback-poll-queList li{
+	min-width:100%;
+}
+#my-account-customer-feddback-poll #custFeedbackAddMore {
+    padding: 9px 10px !important;
+    font-size: 13px;
+}
+
+}
+
+@media (max-width: 480px) {
+#register {
+	width: 100%;
+    font-size: 12px;
+    padding-top: 12px;
+    margin-top: 1px;
+}
+#sign-in-up, #join,#otp {
+    padding: 0;
+}
+#join {
+    padding-top: 10px;
+}
+.input-group-lg > .form-control, .input-group-lg > .input-group-addon, .input-group-lg > .input-group-btn > .btn,blockquote{
+	font-size:14px;
+}
+/**** below css are created by shantibhushan****/
+.profile-score-heading {
+    font-size: 18px;
+    padding: 50px 0 10px 0px;
+	text-align:center;
+}
+.member-cate-heading {
+    background: url(../images/star-icon.png) no-repeat 50% top;
+    font-size: 18px;
+    padding: 50px 0 10px 0px;
+	text-align:center;
+}
+ .profileTbl .balance-points label{width:48%;/*font-size:13px;*/}
+  .profileTbl .balance-points p{font-size:17px;}
+  .nav-tabs > li > a{padding:11px 20px; font-size:18px;}
+  .nbs-flexisel-inner {
+    margin-left: -7px;
+}
+.nbs-flexisel-nav-left {
+    background: url(../images/slider-nav.png) no-repeat -24px 0;
+}
+.nbs-flexisel-nav-left.disabled {
+    opacity: 0.4;
+	background:url(../images/slider-nav.png) no-repeat 7px 0;
+}
+/***** classes created for responsive tab *******/
+.tabs {
+	display: none;
+}
+.tab_drawer_heading {
+	background-color: #f5f5f5;
+	color: #333;
+	border-top: 1px solid #cecdcd;
+	border-bottom:1px solid #cecdcd;
+	margin: 0;
+	padding: 12px 25px;
+	display: block;
+	cursor: pointer;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	font-size:16px;
+	font-weight:bol
+}
+.d_active {
+	background-color: #fff;
+	color: #333;
+}
+.profileSection .circleWrap{
+    margin-top: 3%;
+    margin-left: 27%;
+}
+.footerCopyright .logo {
+	display: block;
+}
+.member-Acc-details .profile-score-heading {
+    padding: 5px 5px 1px 5px;
+    text-align: center;
+    display: block;
+    clear: both;
+}
+/*.member-Acc-details .circleWrap{
+	left:30%;	
+}*/
+.member-Acc-details .member-cate-heading {
+    background: url(../images/star-icon.png) no-repeat 50% top;
+    padding: 55px 0 5px 5px;
+}
+.profileTbl .points span {
+    font-size: 48px;
+}
+.profileTbl .req-transaction {
+    font-size: 17px;
+}
+.globalCardInfoBlocks .steps{
+	left:42%;
+}
+.feedbackRateQueIcon > span {
+	width: 230px;
+	left: 30px;
+	margin-left: -115px;
+	padding: 10px 15px;
+	top: 130%;
+	z-index:9;
+}
+.feedbackRateQueIcon > span i {
+	background: url(../images/tooltip-top-arrow.png) no-repeat left top;
+    top: -11px;
+    display: inline-block;
+    z-index: 10;
+    width: 21px;
+    height: 11px;
+    left: 39%;
+}
+.balance-points div{width:auto; float:none; margin-bottom:5px; padding-bottom:5px;}
+.border-divider{border-bottom:1px solid #fff; border-right:none;}
+#Signin .modal-dialog{max-width:90%;}
+.TxtHide-smallDevice{display:none;}
+.register-Modal .modal-dialog button.btn.btn-lg.btn-primary.btn-block{
+    font-size: 12px !important;
+}
+.shopBlock .imgHolder {
+    min-width: 100%;
+    display: block;
+}
+.shopBlock img {
+    max-width: 100%;
+    height:auto;
+}		
+.shopBlock .txtHolder {
+    float: none;
+    max-width: 100%;
+    text-align: center;
+    padding-top: 7px;
+	font-size:12px;
+}
+.modalFormBtn br, .applyBtn br{ display:block;}
+.side-banner img + p{display:block !important;}
+.productName{font-size:22px;}
+.productName + h4{font-size:15px;}
+.redem-point{font-size:17px;}
+.redem-point span{display:block;}
+#main-carousel .bannerMain-text{
+	margin-top: 3%;
+}
+.bannerMain-text h1{
+	font-size:22px !important;	
+	line-height:27px;
+	margin:0px 0 5px;
+}
+#contactUs .box-block{
+	/*max-width: 300px !important;*/
+	margin: 0 auto;
+}
+#join-now-process .nav-tabs {
+	margin-left:2% !important;
+}
+#join-now-process .interestSubscribe .row > .form-group > label:first-child{
+	display: block;
+	width: 100%;
+}
+#join-now-process .interestSubscribe .row > .form-group > input#Email{
+	margin-left: 15px;
+}
+.member-Acc-details .card-number{font-size:16px;}
+.interestSubscribe {
+    float: left;
+    text-align: left;
+}
+.box-block .contact-details a[href^="mailto"]:nth-child(2){
+	display:block;
+}
+.box-block .contact-details a{
+	font-size:11px;
+}
+}
+@media screen and (max-width:320px) {
+
+/**** below css are created by shantibhushan****/
+.download-pdf-sect div {
+    padding: 6px 5px;
+    display: block;
+    float: none;
+    width: 100%;
+}
+.balance-points div.col-md-6{padding:5px;}
+.profileTbl .points span {
+    font-size: 40px;
+}
+.globalCardInfoBlocks .steps{
+	left:40%;
+}
+#why-enroll .content-container img {
+    bottom: 0px;
+}
+
+
+#main-carousel .bannerMain-text{
+	margin-top: 1%;
+}
+#join-now-process .nav-tabs {
+	margin-left:1% !important;
+}
+}
+
